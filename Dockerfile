@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim
+FROM debian:trixie-slim
 
 # 1. Configuration système et locales
 ENV DEBIAN_FRONTEND=noninteractive \
